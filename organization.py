@@ -1,0 +1,2 @@
+#Domain Logic Code
+# reference: https://aws.amazon.com/blogs/compute/developing-evolutionary-architecture-with-aws-lambda/#:~:text=Hexagonal%20architecture%20with%20Lambda%20functions&text=In%20Lambda%20functions%2C%20hexagonal%20architecture,domain%20logic%20from%20the%20infrastructure.
